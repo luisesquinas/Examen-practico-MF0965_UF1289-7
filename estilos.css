@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Dauphin';
+    src: url('dauphin.ttf') format('truetype');
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-family: 'Dauphin', Arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+}
